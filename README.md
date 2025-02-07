@@ -1,6 +1,6 @@
 <img src="ISDC Hackathon.png" />
 
-# {Team Name}
+# Codevengerz
 
 Welcome to the **ISDC Hackathon!** 🚀
 
