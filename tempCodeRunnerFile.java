@@ -1,0 +1,1 @@
+java -cp ".;sqlite-jdbc-3.49.0.0.jar" FarmerApp
