@@ -9,4 +9,5 @@ This hackathon is not just a competition—it’s an opportunity to learn, colla
 Through this event, you'll get a hands-on experience of how hackathons work. While this is an online hackathon, the collaboration, problem-solving, and teamwork you develop here will prepare you for bigger challenges, including our upcoming offline hackathon!
 
 So gear up, bring your ideas to life, and show us what you’ve got! 🚀🔥
+Running Link - https://drive.google.com/file/d/1UCGS0unv4Y6YRXfpICWnt9mgOkstxshv/view?usp=sharing
 
